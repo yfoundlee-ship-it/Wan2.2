@@ -1,0 +1,23 @@
+{
+  "_comment": "Swap these strings for the real event details - the animation adapts automatically (longer titles auto-shrink, the ribbon always scrolls).",
+
+  "badge": "LIVE · ONE NIGHT ONLY",
+  "title": ["EVENT", "NAME"],
+  "tagline": "FOOD · MUSIC · MARKET",
+  "date": "SAT 24 OCT",
+  "doors": "DOORS 20:00",
+  "venue": "THE WAREHOUSE",
+  "city": "JOHANNESBURG",
+  "cta": "FREE ENTRY · RSVP @YOURHANDLE",
+  "marquee": ["#EVENTNAME", "ONE NIGHT ONLY", "BRING THE CREW"],
+  "footer": "PLACEHOLDER COPY — SWAP IN YOUR OWN DETAILS",
+
+  "palette": {
+    "bg_top": [58, 14, 148],
+    "bg_mid": [206, 28, 142],
+    "bg_bot": [255, 126, 44],
+    "accent": [255, 206, 62],
+    "accent2": [24, 214, 232],
+    "ink": [17, 8, 32]
+  }
+}
